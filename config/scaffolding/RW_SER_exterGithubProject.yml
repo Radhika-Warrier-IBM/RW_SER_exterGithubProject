@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RW_SER_exterGithubProject
+  gitServerName: RW_SER_githubPvt
+  gitUrl: https://github.com/Radhika-Warrier-IBM
+  gitUsername: Radhika-Warrier-IBM
+  gitBranch: main
